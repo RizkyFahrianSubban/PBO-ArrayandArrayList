@@ -71,7 +71,7 @@ java -version
 **1. Clone repository**
 
 ```
-git clone https://github.com/13_Rizky Fahrian Subban/PBO-ArrayandArrayList.git
+git clone https://github.com/RizkyFahrianSubban/PBO-ArrayandArrayList.git
 cd PBO-ArrayandArrayList
 ```
 
@@ -223,11 +223,11 @@ public int getNumOfAccounts() {
 
 ## 👨‍💻 Identitas Pembuat
 
-|              |                        |
-| ------------ | -------------------    |
+|              |                      |
+| ------------ | -------------------  |
 | 👤 **Nama**  | *Rizky Fahrian Subban* |
-| 🆔 **NIM**   | *F1D02510090*          |
-| 🏫 **Kelas** | *INFORMATIKA B*        |
+| 🆔 **NIM**   | *F1D02510090* |
+| 🏫 **Kelas** | *INFORMATIKA B* |
 
 Dibuat dengan ☕ dan semangat belajar Java.
 
